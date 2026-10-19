@@ -1,5 +1,3 @@
-local shared = shared or getgenv()
-
 local WINDOW_WIDTH, WINDOW_HEIGHT = 480, 300
 local MIN_SCALE, MAX_SCALE = 0.5, 2
 local TOGGLE_KEY = Enum.KeyCode.RightShift
